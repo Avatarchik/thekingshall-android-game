@@ -30,7 +30,7 @@ Gameplay video:
 ---coming---
 
 Behance:
-https://www.behance.net/gallery/60331263/B21
+https://www.behance.net/gallery/62694977/The-Kings-Hall
 
 ![thekingshall-android-game](https://mir-s3-cdn-cf.behance.net/project_modules/1400/bd444662694977.5a98535017a96.png) 
 
