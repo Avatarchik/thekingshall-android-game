@@ -27,7 +27,7 @@ Cloud Save: Your game progress is being saved online with Google Play. You can s
 Have fun to play The King's Hall!
 
 Gameplay video:
----coming---
+https://youtu.be/9A4gfxWthjU
 
 Behance:
 https://www.behance.net/gallery/62694977/The-Kings-Hall
