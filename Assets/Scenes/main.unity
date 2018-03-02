@@ -3169,7 +3169,7 @@ AudioSource:
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 8300000, guid: 7c792280937728f4c862404e4f225019, type: 3}
   m_PlayOnAwake: 0
-  m_Volume: 0.84
+  m_Volume: 0.92
   m_Pitch: 1
   Loop: 0
   Mute: 0
@@ -16849,7 +16849,7 @@ MonoBehaviour:
   spawnIndex: 0
   lifepoints: 3
   scoreUiscoreInt: 0
-  reward: 0
+  rewardPoints: 0
   coinSpawners: {fileID: 909403380}
   king: {fileID: 892262930}
   wallwood: {fileID: 1692140700}
@@ -16908,6 +16908,7 @@ MonoBehaviour:
   fpsCounter: {fileID: 1324356090}
   fpsCounterStatus: 0
   subtitlesOn: 0
+  reward: 0
   controlGame: 1
   introOn: 0
   controlScore: 0
@@ -17101,6 +17102,7 @@ MonoBehaviour:
   - 1
   - 2
   - 3
+  - 4
   startCounter: 1
   nTnumber: 
 --- !u!114 &1266305580
@@ -26193,7 +26195,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: version 0.2
+  m_Text: version 0.7
 --- !u!222 &1955273413
 CanvasRenderer:
   m_ObjectHideFlags: 0

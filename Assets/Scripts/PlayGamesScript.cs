@@ -5,6 +5,7 @@ using System.Text;
 using UnityEngine;
 using UnityEngine.SocialPlatforms;
 
+
 public class PlayGamesScript : MonoBehaviour
 {
 
@@ -30,8 +31,7 @@ public class PlayGamesScript : MonoBehaviour
 
 		LoadLocal();
 
-		PlayGamesClientConfiguration config = new PlayGamesClientConfiguration.Builder()
-			.EnableSavedGames().Build();
+		PlayGamesClientConfiguration config = new PlayGamesClientConfiguration.Builder().EnableSavedGames().Build();
 		PlayGamesPlatform.InitializeInstance(config);
 		PlayGamesPlatform.Activate();
 
